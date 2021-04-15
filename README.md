@@ -1,1 +1,1 @@
-![Tabby cat](https://media2.giphy.com/media/ZnRLfAh6A6h8Y/200.webp?cid=ecf05e475bvi8jk6go7kxz83b570hrksdha322zq5d4opcn0&rid=200.webp&ct=g)
+![Tabby cat](https://media0.giphy.com/media/137t2kXSNFCAG4/200w.webp?cid=ecf05e47f3tzurykfo6k8oy2m9f5dk6gny8gfof83udtsuu8&rid=200w.webp&ct=g)
