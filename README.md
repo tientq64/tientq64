@@ -1,1 +1,1 @@
-![](https://data14.sticker.fan/20201203/file_3346625_128x128.webp)
+![](https://data14.sticker.fan/20200904/file_2745638_128x128.webp)
