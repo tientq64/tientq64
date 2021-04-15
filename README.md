@@ -1,1 +1,1 @@
-![1](https://i.pinimg.com/originals/98/be/3d/98be3d830fa124427ba2d9c4365b27b7.gif)
+![1](https://data14.sticker.fan/20200904/file_2745638_128x128.webp)
