@@ -6,6 +6,3 @@
 ![](https://data14.sticker.fan/20201203/file_3346609_128x128.webp)
 ![](https://data14.sticker.fan/20201203/file_3346625_128x128.webp)
 ![](https://data14.sticker.fan/20201203/file_3346630_128x128.webp)
-![](https://data14.sticker.fan/20201203/file_3210055_128x128.webp)
-![](https://data14.sticker.fan/20200504/file_2634875_128x128.webp)
-![](https://data14.sticker.fan/20200905/file_2734276_128x128.webp)
