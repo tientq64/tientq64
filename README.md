@@ -6,7 +6,7 @@
 ![](https://play.pokemonshowdown.com/sprites/ani/suicune.gif)
 ![](https://play.pokemonshowdown.com/sprites/ani/entei.gif)
 
-   Raikou                  Suicune                  Entei
+   Raikou              Suicune              Entei
 
 ---
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiencoffee&layout=compact&langs_count=10)
