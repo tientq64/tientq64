@@ -15,7 +15,7 @@
 ![](https://play.pokemonshowdown.com/sprites/ani/giratina.gif)
 ![](https://play.pokemonshowdown.com/sprites/ani/dialga.gif)
 
-      `Palkia`                 `Giratina`                `Dialga`
+      `Palkia`                  `Giratina`                 `Dialga`
 
 ---
 
