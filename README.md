@@ -5,17 +5,17 @@
 
 ![](https://play.pokemonshowdown.com/sprites/ani/raikou.gif)
 ![](https://play.pokemonshowdown.com/sprites/ani/suicune.gif)
-  ![](https://play.pokemonshowdown.com/sprites/ani/entei.gif)
+  ![](https://play.pokemonshowdown.com/sprites/ani/entei.gif)
 
-   `Raikou`          `Suicune`           `Entei`
+   `Raikou`          `Suicune`           `Entei`
 
 ---
 
-![](https://play.pokemonshowdown.com/sprites/ani/terrakion.gif)
-![](https://play.pokemonshowdown.com/sprites/ani/virizion.gif)
-    ![](https://play.pokemonshowdown.com/sprites/ani/cobalion.gif)
+![](https://play.pokemonshowdown.com/sprites/ani/palkia.gif)
+![](https://play.pokemonshowdown.com/sprites/ani/giratina.gif)
+![](https://play.pokemonshowdown.com/sprites/ani/dialga.gif)
 
-   `Terrakion`         `Virizion`         `Cobalion`
+      `Palkia`               `Giratina`              `Dialga`
 
 ---
 
