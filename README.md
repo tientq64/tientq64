@@ -9,6 +9,10 @@
 
 ---
 
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&no-bg=true&theme=darkhub)
+
+---
+
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiencoffee&layout=compact&langs_count=10)
 
 ---
