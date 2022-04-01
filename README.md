@@ -15,9 +15,9 @@
 
 ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiencoffee&layout=compact&langs_count=10)
 
+<!--
 ---
 
-<!--
 ![](https://play.pokemonshowdown.com/sprites/ani/raikou.gif)
 ![](https://play.pokemonshowdown.com/sprites/ani/suicune.gif)
   ![](https://play.pokemonshowdown.com/sprites/ani/entei.gif)
