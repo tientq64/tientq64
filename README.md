@@ -17,6 +17,7 @@
 
 ---
 
+<!--
 ![](https://play.pokemonshowdown.com/sprites/ani/raikou.gif)
 ![](https://play.pokemonshowdown.com/sprites/ani/suicune.gif)
   ![](https://play.pokemonshowdown.com/sprites/ani/entei.gif)
@@ -30,3 +31,4 @@
 ![](https://play.pokemonshowdown.com/sprites/ani/dialga.gif)
 
       `Palkia`                  `Giratina`                 `Dialga`
+-->
