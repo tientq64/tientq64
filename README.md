@@ -13,7 +13,7 @@
 
 ---
 
-![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiencoffee&layout=compact&langs_count=10)
+<!-- ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiencoffee&layout=compact&langs_count=10) -->
 
 <!--
 ---
