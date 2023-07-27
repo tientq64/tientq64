@@ -12,11 +12,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tientq64&theme=github_dark)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tientq64&theme=github_dark) -->
 
----
-
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&no-bg=true&theme=darkhub) -->
-
----
 
 <!-- ![top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tientq64&layout=compact&langs_count=10) -->
 
