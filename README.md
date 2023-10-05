@@ -10,8 +10,12 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tientq64&theme=github_dark) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tientq64&theme=github_dark) -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tientq64&theme=dark&layout=compact)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tientq64&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tientq64&theme=dark&layout=compact">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tientq64&theme=github_dark">
+</p>
+
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tientq64&theme=github_dark) -->
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true&no-bg=true&theme=darkhub) -->
