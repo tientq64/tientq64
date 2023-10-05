@@ -8,7 +8,13 @@
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tientq64&theme=github_dark) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tientq64&theme=github_dark) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tientq64&theme=github_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tientq64&theme=github_dark) -->
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tientq64&theme=light&layout=compact" media="(prefers-color-scheme: light)"></source>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tientq64&theme=dark&layout=compact" media="(prefers-color-scheme: dark)"></source>
+</picture>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tientq64&theme=github_dark)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tientq64&theme=github_dark) -->
 
