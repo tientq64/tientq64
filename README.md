@@ -6,6 +6,24 @@
   <img src="https://profile-counter.glitch.me/tientq64/count.svg">
 </p>
 
+```json
+{
+	"name": "Trần Quang Tiến",
+	"address": "Vietnam",
+	"skills": {
+		"languages": ["html", "css", "javascript", "typescript", "python"],
+		"frameworks": ["react", "vue"],
+		"libraries": ["zustand", "redux-toolkit", "tailwindcss", "antd", "jquery", "bootstrap"],
+		"os": "windows"
+	},
+	"links": {
+		"codepen": "https://fb.com/tientq64",
+		"facebook": "https://fb.com/tientq64",
+		"tetr": "https://tetr.io/tiencoffee"
+	}
+}
+```
+
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tientq64&theme=github_dark) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tientq64&theme=github_dark) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tientq64&theme=github_dark) -->
