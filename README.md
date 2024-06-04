@@ -6,18 +6,22 @@
   <img src="https://profile-counter.glitch.me/tientq64/count.svg">
 </p>
 
-```yaml
-username: tientq64
-fullname: Trần Quang Tiến
-address: Vietnam
-skills:
--   languages: [html, css, javascript, typescript, python]
--   frameworks: [react, vue]
--   libraries: [zustand, tailwindcss, antd, bootstrap]
-links:
--   codepen: https://codepen.io/tientq64
--   facebook: https://fb.com/tientq64
--   tetr: https://tetr.io/tiencoffee
+```json
+{
+    "username": "tientq64",
+    "fullname": "Trần Quang Tiến",
+    "address": "Vietnam",
+    "skills": {
+        "languages": ["html", "css", "javascript", "typescript", "python"],
+        "frameworks": ["react", "vue"],
+        "libraries": ["zustand", "tailwindcss", "antd", "bootstrap"]
+    },
+    "links": {
+        "codepen": "https://codepen.io/tientq64",
+        "facebook": "https://fb.com/tientq64",
+        "tetr": "https://tetr.io/tiencoffee"
+    }
+}
 ```
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tientq64&theme=github_dark) -->
