@@ -1,11 +1,6 @@
 <!-- ![](https://data14.sticker.fan/20200904/file_2745638_128x128.webp) -->
 <!-- ![](https://img.itch.zone/aW1nLzEwNTE5NDMuZ2lm/original/UOzaTJ.gif) -->
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tientq64/count.svg">
-</p>
-
 ```json
 {
     "username": "tientq64",
@@ -27,6 +22,11 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tientq64&theme=github_dark) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tientq64&theme=github_dark) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tientq64&theme=github_dark) -->
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tientq64/count.svg">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tientq64&theme=dark&layout=compact">
