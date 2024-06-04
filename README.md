@@ -8,19 +8,19 @@
 
 ```json
 {
-	"name": "Trần Quang Tiến",
-	"address": "Vietnam",
-	"skills": {
-		"languages": ["html", "css", "javascript", "typescript", "python"],
-		"frameworks": ["react", "vue"],
-		"libraries": ["zustand", "redux-toolkit", "tailwindcss", "antd", "jquery", "bootstrap"],
-		"os": "windows"
-	},
-	"links": {
-		"codepen": "https://fb.com/tientq64",
-		"facebook": "https://fb.com/tientq64",
-		"tetr": "https://tetr.io/tiencoffee"
-	}
+    "username": "tientq64",
+    "fullname": "Trần Quang Tiến",
+    "address": "Vietnam",
+    "skills": {
+        "languages": ["html", "css", "javascript", "typescript", "python"],
+        "frameworks": ["react", "vue"],
+        "libraries": ["zustand", "tailwindcss", "antd", "bootstrap"]
+    },
+    "links": {
+        "codepen": "https://fb.com/tientq64",
+        "facebook": "https://fb.com/tientq64",
+        "tetr": "https://tetr.io/tiencoffee"
+    }
 }
 ```
 
