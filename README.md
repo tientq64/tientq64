@@ -32,16 +32,16 @@
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,py,php)
+![Languages](https://skillicons.dev/icons?i=js,ts,py,php&perline=10)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug&perline=10)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,vite,electron,express,gcp)
+[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,vite,electron,express,gcp&perline=10)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,gql)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,gql&perline=10)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,powershell,md,regex,vercel,codepen,vscode,sublime,ps,figma,stackoverflow,windows&perline=10)
