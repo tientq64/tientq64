@@ -14,7 +14,8 @@
     "links": {
         "codepen": "https://codepen.io/tientq64",
         "facebook": "https://fb.com/tientq64",
-        "tetr": "https://tetr.io/tiencoffee"
+        "tetr": "https://tetr.io/tiencoffee",
+        "ko-fi": "https://ko-fi.com/tientq64"
     }
 }
 ```
@@ -28,11 +29,28 @@
   <img src="https://profile-counter.glitch.me/tientq64/count.svg">
 </p>
 
-<p align="center">
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,py,php)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,vite,electron,express,gcp)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=mysql,gql)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,powershell,md,regex,vercel,codepen,vscode,sublime,ps,figma,stackoverflow,windows&perline=10)
+
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tientq64&theme=dark&layout=compact">
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tientq64&theme=github_dark">
-</p>
+</p>-->
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tientq64&theme=github_dark) -->
 
