@@ -38,7 +38,7 @@
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug&perline=10)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,vite,electron,express,gcp&perline=10)
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,vite,electron,express,gcp&perline=10)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,gql&perline=10)
