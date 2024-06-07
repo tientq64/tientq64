@@ -32,7 +32,7 @@
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,py,php&perline=12)
+![Languages](https://skillicons.dev/icons?i=js,ts,py,php,c,go&perline=12)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug&perline=12)
