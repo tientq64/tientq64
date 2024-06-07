@@ -32,19 +32,19 @@
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,py,php&perline=10)
+![Languages](https://skillicons.dev/icons?i=js,ts,py,php&perline=12)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug&perline=10)
+![Frontend Technologies](https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug&perline=12)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,vite,electron,express,gcp&perline=10)
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,vite,electron,express,gcp&perline=12)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,gql&perline=10)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,gql&perline=12)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,powershell,md,regex,vercel,codepen,vscode,sublime,ps,figma,stackoverflow,windows&perline=10)
+![Others](https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,powershell,md,regex,vercel,codepen,vscode,sublime,ps,figma,stackoverflow,windows&perline=12)
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tientq64&theme=dark&layout=compact">
