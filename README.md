@@ -44,7 +44,7 @@
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,gql&perline=12)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,powershell,md,regex,vercel,codepen,vscode,sublime,ps,figma,stackoverflow,windows&perline=12)
+![Others](https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,vscode,sublime,powershell,md,regex,vercel,codepen,ps,figma,stackoverflow,windows&perline=12)
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tientq64&theme=dark&layout=compact">
