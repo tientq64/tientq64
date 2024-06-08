@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/ThreeJS-282c34?logo=three.js" height="25">
   <img src="https://img.shields.io/badge/SVG-282c34?logo=svg" height="25">
   <img src="https://img.shields.io/badge/Sass-282c34?logo=sass" height="25">
+  <br>
+  <img src="https://img.shields.io/badge/Pug-282c34?logo=pug" height="25">
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug&perline=14" width="428"> -->
@@ -41,7 +43,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/NodeJS-282c34?logo=node.js" height="25">
-  <img src="https://img.shields.io/badge/Vite-282c34?logo=vite&logoColor=f7ba18" height="25">
   <img src="https://img.shields.io/badge/Electron-282c34?logo=electron" height="25">
   <img src="https://img.shields.io/badge/Express-282c34?logo=express" height="25">
 </p>
@@ -57,28 +58,43 @@
 
 <!-- <img src="https://skillicons.dev/icons?i=mysql,gql,gcp&perline=14" width="104"> -->
 
+#### Build tools
+
+  <img src="https://img.shields.io/badge/Npm-282c34?logo=npm" height="25">
+  <img src="https://img.shields.io/badge/Pnpm-282c34?logo=pnpm" height="25">
+  <img src="https://img.shields.io/badge/Vite-282c34?logo=vite&logoColor=f7ba18" height="25">
+  <img src="https://img.shields.io/badge/Vitest-282c34?logo=vitest" height="25">
+  <img src="https://img.shields.io/badge/Prettier-282c34?logo=prettier" height="25">
+
+#### Version control
+
+  <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
+  <img src="https://img.shields.io/badge/GitHub-282c34?logo=github" height="25">
+
+#### Editors
+
+<p>
+  <img src="https://img.shields.io/badge/VS Code-282c34?logo=visual-studio-code&logoColor=0078d7" height="25">
+  <img src="https://img.shields.io/badge/Sublime Text-282c34?logo=sublime-text" height="25">
+</p>
+
+#### Hosting
+
+  <img src="https://img.shields.io/badge/Vercel-282c34?logo=vercel" height="25">
+  <img src="https://img.shields.io/badge/Netlify-282c34?logo=netlify" height="25">
+  <img src="https://img.shields.io/badge/Heroku-282c34?logo=heroku" height="25">
+
 #### Other Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
-  <img src="https://img.shields.io/badge/GitHub-282c34?logo=github" height="25">
-  <img src="https://img.shields.io/badge/Npm-282c34?logo=npm" height="25">
-  <img src="https://img.shields.io/badge/Pnpm-282c34?logo=pnpm" height="25">
-  <img src="https://img.shields.io/badge/Vitest-282c34?logo=vitest" height="25">
-  <img src="https://img.shields.io/badge/Prettier-282c34?logo=prettier" height="25">
-  <br>
   <img src="https://img.shields.io/badge/Markdown-282c34?logo=markdown" height="25">
-  <img src="https://img.shields.io/badge/VS Code-282c34?logo=visual-studio-code&logoColor=0078d7" height="25">
-  <img src="https://img.shields.io/badge/Sublime-282c34?logo=sublime-text" height="25">
-  <img src="https://img.shields.io/badge/Vercel-282c34?logo=vercel" height="25">
-  <img src="https://img.shields.io/badge/Codepen-282c34?logo=codepen" height="25">
-  <br>
   <img src="https://img.shields.io/badge/Powershell-282c34?logo=powershell" height="25">
-  <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop" height="25">
-  <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25">
+  <img src="https://img.shields.io/badge/Google Cloud-282c34?logo=google-cloud" height="25">
   <img src="https://img.shields.io/badge/Stack Overflow-282c34?logo=stackoverflow" height="25">
   <br>
-  <img src="https://img.shields.io/badge/Google Cloud-282c34?logo=google-cloud" height="25">
+  <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop" height="25">
+  <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25">
+  <img src="https://img.shields.io/badge/Imgur-282c34?logo=imgur" height="25">
   <img src="https://img.shields.io/badge/Microsoft Edge-282c34?logo=microsoft-edge&logoColor=0078d7" height="25">
 </p>
 
@@ -92,8 +108,11 @@
 <a href="https://fb.com/tientq64">
   <img src="https://img.shields.io/badge/Facebook-0866ff.svg?logo=facebook" height="25">
 </a>
+<a href="https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64">
 <a href="https://youtube.com/@mien-ai-music">
   <img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">
+</a>
+  <img src="https://img.shields.io/badge/Wikipedia-ddd.svg?logo=wikipedia&logoColor=000" height="25">
 </a>
 
 # ☕ Support me
