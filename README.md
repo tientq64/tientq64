@@ -1,8 +1,8 @@
 # 📰 About me
 
-![Profile Views](https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6)
-
 ![Metrics](./github-metrics.svg)
+
+![Profile Views](https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6)
 
 # 🎓 Skills
 
