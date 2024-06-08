@@ -4,7 +4,7 @@
 
 # 🎓 Skills
 
-#### Programming Languages
+#### Programming languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
@@ -17,19 +17,19 @@
 
 <!-- <img src="https://skillicons.dev/icons?i=js,ts,py,php,c,go&perline=14" width="212"> -->
 
-#### Frontend Technologies
+#### Front-end
 
 <p>
   <img src="https://img.shields.io/badge/HTML-282c34?logo=html5" height="25">
   <img src="https://img.shields.io/badge/CSS-282c34?logo=css3&logoColor=0396de" height="25">
   <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
-  <img src="https://img.shields.io/badge/Redux-282c34?logo=redux" height="25">
+  <img src="https://img.shields.io/badge/Redux-282c34?logo=redux&logoColor=764abc" height="25">
   <img src="https://img.shields.io/badge/Vue-282c34?logo=vue.js" height="25">
-  <img src="https://img.shields.io/badge/Tailwind-282c34?logo=tailwindcss" height="25">
+  <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
   <br>
   <img src="https://img.shields.io/badge/Antd-282c34?logo=antdesign&logoColor=0170fe" height="25">
   <img src="https://img.shields.io/badge/Bootstrap-282c34?logo=bootstrap" height="25">
-  <img src="https://img.shields.io/badge/JQuery-282c34?logo=jquery" height="25">
+  <img src="https://img.shields.io/badge/JQuery-282c34?logo=jquery&logoColor=1163a4" height="25">
   <img src="https://img.shields.io/badge/ThreeJS-282c34?logo=three.js" height="25">
   <img src="https://img.shields.io/badge/SVG-282c34?logo=svg" height="25">
   <img src="https://img.shields.io/badge/Sass-282c34?logo=sass" height="25">
@@ -37,7 +37,7 @@
 
 <!-- <img src="https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug&perline=14" width="428"> -->
 
-#### Backend Technologies
+#### Back-end
 
 <p>
   <img src="https://img.shields.io/badge/NodeJS-282c34?logo=node.js" height="25">
@@ -48,17 +48,17 @@
 
 <!-- <img src="https://skillicons.dev/icons?i=nodejs,vite,electron,express&perline=14" width="140"> -->
 
-#### Database & Tools
+#### Databases
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-282c34?logo=mysql" height="25">
-  <img src="https://img.shields.io/badge/GraphQL-282c34?logo=graphql" height="25">
+  <img src="https://img.shields.io/badge/GraphQL-282c34?logo=graphql&logoColor=de33a6" height="25">
   <img src="https://img.shields.io/badge/Google Cloud-282c34?logo=google-cloud" height="25">
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=mysql,gql,gcp&perline=14" width="104"> -->
 
-#### Other tools & Technologies
+#### Other tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
