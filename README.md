@@ -1,6 +1,6 @@
 ## 📰 About me
 
-<img src="./github-metrics.svg" width="100%">
+![Metrics](./github-metrics.svg)
 
 <br>
 <p align="center">
