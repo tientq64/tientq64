@@ -41,7 +41,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/NodeJS-282c34?logo=node.js" height="25">
-  <img src="https://img.shields.io/badge/Vite-282c34?logo=vite" height="25">
+  <img src="https://img.shields.io/badge/Vite-282c34?logo=vite&logoColor=f7ba18" height="25">
   <img src="https://img.shields.io/badge/Electron-282c34?logo=electron" height="25">
   <img src="https://img.shields.io/badge/Express-282c34?logo=express" height="25">
 </p>
