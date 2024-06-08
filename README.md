@@ -4,7 +4,7 @@
 
 # 🎓 Skills
 
-#### Programming languages
+#### Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
@@ -53,12 +53,11 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-282c34?logo=mysql" height="25">
   <img src="https://img.shields.io/badge/GraphQL-282c34?logo=graphql&logoColor=de33a6" height="25">
-  <img src="https://img.shields.io/badge/Google Cloud-282c34?logo=google-cloud" height="25">
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=mysql,gql,gcp&perline=14" width="104"> -->
 
-#### Other tools
+#### Other Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
@@ -79,6 +78,7 @@
   <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25">
   <img src="https://img.shields.io/badge/Stack Overflow-282c34?logo=stackoverflow" height="25">
   <br>
+  <img src="https://img.shields.io/badge/Google Cloud-282c34?logo=google-cloud" height="25">
   <img src="https://img.shields.io/badge/Microsoft Edge-282c34?logo=microsoft-edge&logoColor=0078d7" height="25">
 </p>
 
