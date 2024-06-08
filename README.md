@@ -60,16 +60,20 @@
 
 #### Build tools
 
+<p>
   <img src="https://img.shields.io/badge/Npm-282c34?logo=npm" height="25">
   <img src="https://img.shields.io/badge/Pnpm-282c34?logo=pnpm" height="25">
   <img src="https://img.shields.io/badge/Vite-282c34?logo=vite&logoColor=f7ba18" height="25">
   <img src="https://img.shields.io/badge/Vitest-282c34?logo=vitest" height="25">
   <img src="https://img.shields.io/badge/Prettier-282c34?logo=prettier" height="25">
+</p>
 
 #### Version control
 
+<p>
   <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
   <img src="https://img.shields.io/badge/GitHub-282c34?logo=github" height="25">
+</p>
 
 #### Editors
 
@@ -80,9 +84,11 @@
 
 #### Hosting
 
+<p>
   <img src="https://img.shields.io/badge/Vercel-282c34?logo=vercel" height="25">
   <img src="https://img.shields.io/badge/Netlify-282c34?logo=netlify" height="25">
   <img src="https://img.shields.io/badge/Heroku-282c34?logo=heroku" height="25">
+</p>
 
 #### Other Tools
 
