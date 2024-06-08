@@ -2,8 +2,6 @@
 
 ![Metrics](./github-metrics.svg)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6)
-
 # 🎓 Skills
 
 #### Programming Languages
@@ -36,3 +34,7 @@
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tientq64)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tientq64)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tientq64)
+
+<br>
+
+![Profile Views](https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6)
