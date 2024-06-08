@@ -28,6 +28,7 @@
 
 [![Codepen](https://img.shields.io/badge/Codepen-3e3f46.svg?logo=codepen&logoColor=white)](https://codepen.io/tientq64)
 [![Facebook](https://img.shields.io/badge/Facebook-0866ff.svg?logo=facebook&logoColor=white)](https://fb.com/tientq64)
+[![Youtube](https://img.shields.io/badge/Youtube-c4302b.svg?logo=youtube&logoColor=white)](https://youtube.com/@mien-ai-music)
 
 # ☕ Support me
 
