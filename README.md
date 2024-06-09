@@ -114,10 +114,10 @@
 <a href="https://fb.com/tientq64">
   <img src="https://img.shields.io/badge/Facebook-0866ff.svg?logo=facebook" height="25">
 </a>
-<a href="https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64">
 <a href="https://youtube.com/@mien-ai-music">
   <img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">
 </a>
+<a href="https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64">
   <img src="https://img.shields.io/badge/Wikipedia-ddd.svg?logo=wikipedia&logoColor=000" height="25">
 </a>
 
