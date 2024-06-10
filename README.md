@@ -58,7 +58,7 @@
 
 <!-- <img src="https://skillicons.dev/icons?i=mysql,gql,gcp&perline=14" width="104"> -->
 
-#### Build tools
+#### Development tools
 
 <p>
   <img src="https://img.shields.io/badge/Npm-282c34?logo=npm" height="25">
