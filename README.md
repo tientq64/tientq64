@@ -87,7 +87,7 @@
 <p>
   <img src="https://img.shields.io/badge/Vercel-282c34?logo=vercel" height="25">
   <img src="https://img.shields.io/badge/Netlify-282c34?logo=netlify" height="25">
-  <img src="https://img.shields.io/badge/Heroku-282c34?logo=heroku" height="25">
+  <img src="https://img.shields.io/badge/Heroku-282c34?logo=heroku&logoColor=6762a6" height="25">
 </p>
 
 #### Other Tools
