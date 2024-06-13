@@ -63,6 +63,7 @@
 <p>
   <img src="https://img.shields.io/badge/Npm-282c34?logo=npm" height="25">
   <img src="https://img.shields.io/badge/Pnpm-282c34?logo=pnpm" height="25">
+  <img src="https://img.shields.io/badge/Bun-282c34?logo=bun" height="25">
   <img src="https://img.shields.io/badge/Vite-282c34?logo=vite&logoColor=f7ba18" height="25">
   <img src="https://img.shields.io/badge/Vitest-282c34?logo=vitest" height="25">
   <img src="https://img.shields.io/badge/Prettier-282c34?logo=prettier" height="25">
