@@ -121,7 +121,7 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tientq64)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tientq64)
 
-<hr>
+---
 
 [<img src="https://github.com/tientq64/tientq64/actions/workflows/metrics.yml/badge.svg" height="22">](https://github.com/tientq64/tientq64/actions/workflows/metrics.yml)
 [<img src="https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6">](https://visitcount.itsvg.in)
