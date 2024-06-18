@@ -44,12 +44,28 @@
 
 <p>
   <img src="https://img.shields.io/badge/NodeJS-282c34?logo=node.js" height="25">
-  <img src="https://img.shields.io/badge/Electron-282c34?logo=electron" height="25">
   <img src="https://img.shields.io/badge/Express-282c34?logo=express" height="25">
   <img src="https://img.shields.io/badge/Serverless-282c34?logo=serverless" height="25">
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=nodejs,vite,electron,express&perline=14" width="140"> -->
+
+#### Desktop Development
+
+<p>
+  <img src="https://img.shields.io/badge/Electron-282c34?logo=electron" height="25">
+</p>
+
+#### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Npm-282c34?logo=npm" height="25">
+  <img src="https://img.shields.io/badge/Pnpm-282c34?logo=pnpm" height="25">
+  <img src="https://img.shields.io/badge/Bun-282c34?logo=bun" height="25">
+  <img src="https://img.shields.io/badge/Vite-282c34?logo=vite" height="25">
+  <img src="https://img.shields.io/badge/Vitest-282c34?logo=vitest" height="25">
+  <img src="https://img.shields.io/badge/Prettier-282c34?logo=prettier" height="25">
+</p>
 
 #### Databases
 
@@ -60,18 +76,7 @@
 
 <!-- <img src="https://skillicons.dev/icons?i=mysql,gql,gcp&perline=14" width="104"> -->
 
-#### Development tools
-
-<p>
-  <img src="https://img.shields.io/badge/Npm-282c34?logo=npm" height="25">
-  <img src="https://img.shields.io/badge/Pnpm-282c34?logo=pnpm" height="25">
-  <img src="https://img.shields.io/badge/Bun-282c34?logo=bun" height="25">
-  <img src="https://img.shields.io/badge/Vite-282c34?logo=vite&logoColor=f7ba18" height="25">
-  <img src="https://img.shields.io/badge/Vitest-282c34?logo=vitest" height="25">
-  <img src="https://img.shields.io/badge/Prettier-282c34?logo=prettier" height="25">
-</p>
-
-#### Version control
+#### Version Control
 
 <p>
   <img src="https://img.shields.io/badge/Git-282c34?logo=git" height="25">
@@ -85,12 +90,13 @@
   <img src="https://img.shields.io/badge/Sublime Text-282c34?logo=sublime-text" height="25">
 </p>
 
-#### Hosting
+#### Hosting & Cloud Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Vercel-282c34?logo=vercel" height="25">
   <img src="https://img.shields.io/badge/Netlify-282c34?logo=netlify" height="25">
   <img src="https://img.shields.io/badge/Heroku-282c34?logo=heroku&logoColor=6762a6" height="25">
+  <img src="https://img.shields.io/badge/Google Cloud-282c34?logo=google-cloud" height="25">
 </p>
 
 #### Other Tools
@@ -98,7 +104,6 @@
 <p>
   <img src="https://img.shields.io/badge/Markdown-282c34?logo=markdown" height="25">
   <img src="https://img.shields.io/badge/Powershell-282c34?logo=powershell" height="25">
-  <img src="https://img.shields.io/badge/Google Cloud-282c34?logo=google-cloud" height="25">
   <img src="https://img.shields.io/badge/Stack Overflow-282c34?logo=stackoverflow" height="25">
   <br>
   <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop" height="25">
@@ -109,12 +114,13 @@
 
 <!-- <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,vscode,sublime,powershell,md,regex,vercel,codepen,ps,figma,stackoverflow,windows&perline=14" width="500"> -->
 
-# 🌐 Socials
+# 🌐 Socials & Contact
 
 [<img src="https://img.shields.io/badge/CodePen-3e3f46.svg?logo=codepen" height="25">](https://codepen.io/tientq64)
 [<img src="https://img.shields.io/badge/Facebook-0866ff.svg?logo=facebook" height="25">](https://fb.com/tientq64)
 [<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">](https://youtube.com/@mien-ai-music)
-[<img src="https://img.shields.io/badge/Wikipedia-ddd.svg?logo=wikipedia&logoColor=000" height="25">](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64)
+[<img src="https://img.shields.io/badge/Wikipedia-ddd.svg?logo=wikipedia&logoColor=000" height="25">](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64)\
+[<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="25">](mailto:tientq64@gmail.com)
 
 # ☕ Support me
 
