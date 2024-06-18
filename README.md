@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Sass-282c34?logo=sass" height="25">
   <br>
   <img src="https://img.shields.io/badge/Pug-282c34?logo=pug" height="25">
+  <img src="https://img.shields.io/badge/YAML-282c34?logo=yaml&logoColor=cb171e" height="25">
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=html,css,react,redux,vue,tailwind,bootstrap,jquery,threejs,svg,sass,pug&perline=14" width="428"> -->
