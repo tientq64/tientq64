@@ -110,18 +110,10 @@
 
 # 🌐 Socials
 
-<a href="https://codepen.io/tientq64">
-  <img src="https://img.shields.io/badge/CodePen-3e3f46.svg?logo=codepen" height="25">
-</a>
-<a href="https://fb.com/tientq64">
-  <img src="https://img.shields.io/badge/Facebook-0866ff.svg?logo=facebook" height="25">
-</a>
-<a href="https://youtube.com/@mien-ai-music">
-  <img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">
-</a>
-<a href="https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64">
-  <img src="https://img.shields.io/badge/Wikipedia-ddd.svg?logo=wikipedia&logoColor=000" height="25">
-</a>
+[<img src="https://img.shields.io/badge/CodePen-3e3f46.svg?logo=codepen" height="25">](https://codepen.io/tientq64)
+[<img src="https://img.shields.io/badge/Facebook-0866ff.svg?logo=facebook" height="25">](https://fb.com/tientq64)
+[<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">](https://youtube.com/@mien-ai-music)
+[<img src="https://img.shields.io/badge/Wikipedia-ddd.svg?logo=wikipedia&logoColor=000" height="25">](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64)
 
 # ☕ Support me
 
@@ -131,9 +123,5 @@
 
 <hr>
 
-<a href="https://github.com/tientq64/tientq64/actions/workflows/metrics.yml">
-  <img src="https://github.com/tientq64/tientq64/actions/workflows/metrics.yml/badge.svg" height="22">
-</a>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6">
-</a>
+[<img src="https://github.com/tientq64/tientq64/actions/workflows/metrics.yml/badge.svg" height="22">](https://github.com/tientq64/tientq64/actions/workflows/metrics.yml)
+[<img src="https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6">](https://visitcount.itsvg.in)
