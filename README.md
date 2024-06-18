@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/NodeJS-282c34?logo=node.js" height="25">
   <img src="https://img.shields.io/badge/Electron-282c34?logo=electron" height="25">
   <img src="https://img.shields.io/badge/Express-282c34?logo=express" height="25">
+  <img src="https://img.shields.io/badge/Serverless-282c34?logo=serverless" height="25">
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=nodejs,vite,electron,express&perline=14" width="140"> -->
