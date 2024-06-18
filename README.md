@@ -133,4 +133,6 @@
 <a href="https://github.com/tientq64/tientq64/actions/workflows/metrics.yml">
   <img src="https://github.com/tientq64/tientq64/actions/workflows/metrics.yml/badge.svg" height="22">
 </a>
-<img src="https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tientq64&icon=5&color=6">
+</a>
