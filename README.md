@@ -114,7 +114,7 @@
 
 <!-- <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,vscode,sublime,powershell,md,regex,vercel,codepen,ps,figma,stackoverflow,windows&perline=14" width="500"> -->
 
-# 🌐 Socials & Contact
+# 🌐 Socials & contact
 
 [<img src="https://img.shields.io/badge/CodePen-3e3f46.svg?logo=codepen" height="25">](https://codepen.io/tientq64)
 [<img src="https://img.shields.io/badge/Facebook-0866ff.svg?logo=facebook" height="25">](https://fb.com/tientq64)
