@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/JavaScript-282c34?logo=javascript" height="25">
   <img src="https://img.shields.io/badge/TypeScript-282c34?logo=typescript&logoColor=367fcf" height="25">
   <img src="https://img.shields.io/badge/Python-282c34?logo=python" height="25">
-  <img src="https://img.shields.io/badge/PHP-282c34?logo=php" height="25">
-  <img src="https://img.shields.io/badge/Go-282c34?logo=go" height="25">
-  <img src="https://img.shields.io/badge/C-282c34?logo=c" height="25">
+  <!-- <img src="https://img.shields.io/badge/PHP-282c34?logo=php" height="25"> -->
+  <!-- <img src="https://img.shields.io/badge/Go-282c34?logo=go" height="25">
+  <img src="https://img.shields.io/badge/C-282c34?logo=c" height="25"> -->
 </p>
 
 <!-- <img src="https://skillicons.dev/icons?i=js,ts,py,php,c,go&perline=14" width="212"> -->
