@@ -23,17 +23,18 @@
   <img src="https://img.shields.io/badge/HTML-282c34?logo=html5" height="25">
   <img src="https://img.shields.io/badge/CSS-282c34?logo=css3&logoColor=0396de" height="25">
   <img src="https://img.shields.io/badge/React-282c34?logo=react" height="25">
+  <img src="https://img.shields.io/badge/Zustand-282c34?logo=zustand" height="25">
   <img src="https://img.shields.io/badge/Redux-282c34?logo=redux&logoColor=764abc" height="25">
   <img src="https://img.shields.io/badge/Vue-282c34?logo=vue.js" height="25">
-  <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
   <br>
+  <img src="https://img.shields.io/badge/Sass-282c34?logo=sass" height="25">
+  <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
   <img src="https://img.shields.io/badge/Antd-282c34?logo=antdesign&logoColor=0170fe" height="25">
   <img src="https://img.shields.io/badge/Bootstrap-282c34?logo=bootstrap" height="25">
   <img src="https://img.shields.io/badge/JQuery-282c34?logo=jquery&logoColor=1163a4" height="25">
+  <br>
   <img src="https://img.shields.io/badge/ThreeJS-282c34?logo=three.js" height="25">
   <img src="https://img.shields.io/badge/SVG-282c34?logo=svg" height="25">
-  <img src="https://img.shields.io/badge/Sass-282c34?logo=sass" height="25">
-  <br>
   <img src="https://img.shields.io/badge/Pug-282c34?logo=pug" height="25">
   <img src="https://img.shields.io/badge/YAML-282c34?logo=yaml&logoColor=cb171e" height="25">
 </p>
@@ -117,9 +118,11 @@
 # 🌐 Socials & contact
 
 [<img src="https://img.shields.io/badge/CodePen-3e3f46.svg?logo=codepen" height="25">](https://codepen.io/tientq64)
+[<img src="https://img.shields.io/badge/GreasyFork-891818.svg?logo=greasyfork" height="25">](https://greasyfork.org/users/1306283-tientq64)\
 [<img src="https://img.shields.io/badge/Facebook-0866ff.svg?logo=facebook" height="25">](https://fb.com/tientq64)
 [<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">](https://youtube.com/@mien-ai-music)
-[<img src="https://img.shields.io/badge/Wikipedia-ddd.svg?logo=wikipedia&logoColor=000" height="25">](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64)\
+[<img src="https://img.shields.io/badge/Wikipedia-ddd.svg?logo=wikipedia&logoColor=000" height="25">](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64)
+[<img src="https://img.shields.io/badge/Tetr.io-cf40aa.svg?logo=tetr" height="25">](https://ch.tetr.io/u/tiencoffee)\
 [<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="25">](mailto:tientq64@gmail.com)
 
 # ☕ Support me
