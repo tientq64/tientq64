@@ -98,7 +98,7 @@
 <p>
   <img src="https://img.shields.io/badge/Vercel-282c34?logo=vercel" height="25">
   <img src="https://img.shields.io/badge/Netlify-282c34?logo=netlify" height="25">
-  <img src="https://img.shields.io/badge/Heroku-282c34?logo=heroku&logoColor=6762a6" height="25">
+  <!-- <img src="https://img.shields.io/badge/Heroku-282c34?logo=heroku&logoColor=6762a6" height="25"> -->
   <img src="https://img.shields.io/badge/Google Cloud-282c34?logo=google-cloud" height="25">
 </p>
 
@@ -115,7 +115,7 @@
   <img src="https://img.shields.io/badge/Microsoft Edge-282c34?logo=microsoft-edge&logoColor=0078d7" height="25">
 </p>
 
-<!-- <img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,vscode,sublime,powershell,md,regex,vercel,codepen,ps,figma,stackoverflow,windows&perline=14" width="500"> -->
+<!-- <imgp src="https://skillicons.dev/icons?i=git,github,npm,pnpm,vitest,vscode,sublime,powershell,md,regex,vercel,codepen,ps,figma,stackoverflow,windows&perline=14" width="500"> -->
 
 # 🌐 Socials & contact
 
