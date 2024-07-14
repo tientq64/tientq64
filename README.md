@@ -32,9 +32,10 @@
   <img src="https://img.shields.io/badge/Sass-282c34?logo=sass" height="25">
   <img src="https://img.shields.io/badge/TailwindCSS-282c34?logo=tailwindcss" height="25">
   <img src="https://img.shields.io/badge/Antd-282c34?logo=antdesign&logoColor=0170fe" height="25">
+  <img src="https://img.shields.io/badge/Blueprint-282c34?logo=blueprint&logoColor=137cbd" height="25">
   <img src="https://img.shields.io/badge/Bootstrap-282c34?logo=bootstrap" height="25">
-  <img src="https://img.shields.io/badge/JQuery-282c34?logo=jquery&logoColor=1163a4" height="25">
   <br>
+  <img src="https://img.shields.io/badge/JQuery-282c34?logo=jquery&logoColor=1163a4" height="25">
   <img src="https://img.shields.io/badge/ThreeJS-282c34?logo=three.js" height="25">
   <img src="https://img.shields.io/badge/SVG-282c34?logo=svg" height="25">
   <img src="https://img.shields.io/badge/Pug-282c34?logo=pug" height="25">
@@ -67,7 +68,9 @@
   <img src="https://img.shields.io/badge/Bun-282c34?logo=bun" height="25">
   <img src="https://img.shields.io/badge/Vite-282c34?logo=vite" height="25">
   <img src="https://img.shields.io/badge/Vitest-282c34?logo=vitest" height="25">
+  <br>
   <img src="https://img.shields.io/badge/Prettier-282c34?logo=prettier" height="25">
+  <img src="https://img.shields.io/badge/ESLint-282c34?logo=eslint&logoColor=4b32c3" height="25">
 </p>
 
 #### Databases
