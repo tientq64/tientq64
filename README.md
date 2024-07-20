@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/ThreeJS-282c34?logo=three.js" height="25">
   <img src="https://img.shields.io/badge/SVG-282c34?logo=svg" height="25">
   <img src="https://img.shields.io/badge/Pug-282c34?logo=pug" height="25">
+  <img src="https://img.shields.io/badge/JSON-282c34?logo=json" height="25">
   <img src="https://img.shields.io/badge/YAML-282c34?logo=yaml&logoColor=cb171e" height="25">
 </p>
 
