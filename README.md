@@ -64,7 +64,7 @@
 #### Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Npm-282c34?logo=npm" height="25">
+  <img src="https://img.shields.io/badge/Npm-282c34?logo=npm&logoColor=cb3837" height="25">
   <img src="https://img.shields.io/badge/Pnpm-282c34?logo=pnpm" height="25">
   <img src="https://img.shields.io/badge/Bun-282c34?logo=bun" height="25">
   <img src="https://img.shields.io/badge/Vite-282c34?logo=vite" height="25">
@@ -128,6 +128,7 @@
 [<img src="https://img.shields.io/badge/Facebook-0866ff.svg?logo=facebook" height="25">](https://fb.com/tientq64)
 [<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">](https://youtube.com/@mien-ai-music)
 [<img src="https://img.shields.io/badge/Wikipedia-ddd.svg?logo=wikipedia&logoColor=000" height="25">](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64)
+[<img src="https://img.shields.io/badge/Suno-2e2828.svg?logo=suno" height="25">](https://ch.tetr.io/u/tiencoffee)
 [<img src="https://img.shields.io/badge/Tetr.io-cf40aa.svg?logo=tetr" height="25">](https://ch.tetr.io/u/tiencoffee)\
 [<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="25">](mailto:tientq64@gmail.com)
 
