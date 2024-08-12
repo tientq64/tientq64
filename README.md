@@ -114,8 +114,7 @@
   <img src="https://img.shields.io/badge/Stack Overflow-282c34?logo=stackoverflow" height="25">
   <br>
   <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop" height="25">
-  <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25">
-  <img src="https://img.shields.io/badge/Imgur-282c34?logo=imgur" height="25">
+<!--   <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25"> -->
   <img src="https://img.shields.io/badge/Microsoft Edge-282c34?logo=microsoft-edge&logoColor=0078d7" height="25">
 </p>
 
