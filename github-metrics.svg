@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            23325 Commits
+                            23326 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    202k added, 43.2k removed
+                                    258k added, 97.8k removed
                                 </div>
                             </section>
                             <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.71412708605416" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="229.71412708605416" y="0" width="120.47730755670307" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="350.1914346427572" y="0" width="47.68757831897756" height="8" fill="#499886"/>
-                    <rect mask="url(#languages-bar)" x="397.87901296173476" y="0" width="28.403545388076157" height="8" fill="#244776"/>
-                    <rect mask="url(#languages-bar)" x="426.2825583498109" y="0" width="16.46730853077379" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="442.7498668805847" y="0" width="8.289440779474473" height="8" fill="#ff6347"/>
-                    <rect mask="url(#languages-bar)" x="451.0393076600592" y="0" width="7.42742044211056" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.4667281021697" y="0" width="1.5332718978302304" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.71414355094177" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="229.71414355094177" y="0" width="120.47731619198096" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="350.1914597429227" y="0" width="47.68758173701121" height="8" fill="#499886"/>
+                    <rect mask="url(#languages-bar)" x="397.87904147993396" y="0" width="28.40354742391604" height="8" fill="#244776"/>
+                    <rect mask="url(#languages-bar)" x="426.28258890384996" y="0" width="16.4672767403219" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="442.7498656441719" y="0" width="8.289441373624742" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="451.0393070177966" y="0" width="7.427420974475044" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.4667279922717" y="0" width="1.533272007728345" height="8" fill="#41b883"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1719,7 +1719,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 23 Sept 2024, 16:37:10
+                            On 24 Sept 2024, 23:59:27
                         </div>
                     </section>
                 </div>
@@ -1729,14 +1729,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            - Hiển thị thông tin tình trạng bảo tồn của loài.
+                            -   Cải thiện phần hiển thị tình trạng bảo tồn.
+-   Ghi nguồn Wikipedia khi xem mô tả loài.
+-   Cải thiện đáng kể hiệu suất, bằng cách viết lại state `Context`.
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">fb670046</span>
-                            <span class="code">src/helpers/parsePhotoCode.ts</span>
+                            <span class="code">8a948987</span>
+                            <span class="code">src/hooks/useGetWikipediaSummary.ts</span>
                             <span class="code">
                                 <span class="snippet additions">++3</span>
                                 <span class="snippet deletions">--1</span>
@@ -1747,14 +1749,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -109,7 +109,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">break<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">case '@':<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">url = `https://live.staticflickr.com/${val}_e.jpg`<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{<br /></span><span class="token prefix inserted">+</span><span class="token line">	url = `https://live.staticflickr.com/${val}_z.jpg`<br /></span><span class="token prefix inserted">+</span><span class="token line">}<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">break<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">case '%':</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -34,7 +34,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">		}<br /></span><span class="token prefix unchanged">·</span><span class="token line">		return summary<br /></span><span class="token prefix unchanged">·</span><span class="token line">	},<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">	{ manual: true }<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">	{<br /></span><span class="token prefix inserted">+</span><span class="token line">		manual: true<br /></span><span class="token prefix inserted">+</span><span class="token line">	}<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">)<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">const requester = { ...request, abort }</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Sept 2024, 12:11:40 (timezone Asia/Saigon) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2024, 13:16:19 (timezone Asia/Saigon) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
