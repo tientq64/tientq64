@@ -64,7 +64,7 @@
 #### Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Npm-282c34?logo=npm" height="25">
+  <img src="https://img.shields.io/badge/Npm-282c34?logo=npm&logoColor=cb3837" height="25">
   <img src="https://img.shields.io/badge/Pnpm-282c34?logo=pnpm" height="25">
   <img src="https://img.shields.io/badge/Bun-282c34?logo=bun" height="25">
   <img src="https://img.shields.io/badge/Vite-282c34?logo=vite" height="25">
@@ -114,8 +114,7 @@
   <img src="https://img.shields.io/badge/Stack Overflow-282c34?logo=stackoverflow" height="25">
   <br>
   <img src="https://img.shields.io/badge/Photoshop-282c34?logo=adobe-photoshop" height="25">
-  <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25">
-  <img src="https://img.shields.io/badge/Imgur-282c34?logo=imgur" height="25">
+<!--   <img src="https://img.shields.io/badge/Figma-282c34?logo=figma" height="25"> -->
   <img src="https://img.shields.io/badge/Microsoft Edge-282c34?logo=microsoft-edge&logoColor=0078d7" height="25">
 </p>
 
@@ -124,10 +123,11 @@
 # 🌐 Socials & contact
 
 [<img src="https://img.shields.io/badge/CodePen-3e3f46.svg?logo=codepen" height="25">](https://codepen.io/tientq64)
-[<img src="https://img.shields.io/badge/GreasyFork-891818.svg?logo=greasyfork" height="25">](https://greasyfork.org/users/1306283-tientq64)\
+[<img src="https://img.shields.io/badge/GreasyFork-891818.svg?logo=greasyfork" height="25">](https://greasyfork.org/en/users/1306283-tientq64?locale_override=1)\
 [<img src="https://img.shields.io/badge/Facebook-0866ff.svg?logo=facebook" height="25">](https://fb.com/tientq64)
 [<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">](https://youtube.com/@mien-ai-music)
 [<img src="https://img.shields.io/badge/Wikipedia-ddd.svg?logo=wikipedia&logoColor=000" height="25">](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64)
+[<img src="https://img.shields.io/badge/Suno-2e2828.svg?logo=suno" height="25">](https://suno.com/@tientq64)
 [<img src="https://img.shields.io/badge/Tetr.io-cf40aa.svg?logo=tetr" height="25">](https://ch.tetr.io/u/tiencoffee)\
 [<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="25">](mailto:tientq64@gmail.com)
 
