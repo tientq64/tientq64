@@ -131,7 +131,7 @@
 [<img src="https://img.shields.io/badge/Tetr.io-cf40aa.svg?logo=tetr" height="25">](https://ch.tetr.io/u/tiencoffee)\
 [<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="25">](mailto:tientq64@gmail.com)
 
-# ☕ Support me
+# 🎁 Support me
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tientq64)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tientq64)
