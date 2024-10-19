@@ -54,9 +54,9 @@ jobs:
           plugin_music_playlist: https://music.youtube.com/playlist?list=PLCwYQuIcL_Dc8sbayQFkmCTNNoPNibpbB
           plugin_music_limit: 2
           plugin_reactions: yes
+          plugin_reactions_details: count
           plugin_skyline: yes
-          plugin_skyline_year: 2024
-          plugin_skyline_frames: 12
+          plugin_skyline_frames: 24
           plugin_skyline_settings: |
             {
               "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
