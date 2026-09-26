@@ -125,9 +125,7 @@
 [<img src="https://img.shields.io/badge/CodePen-3e3f46.svg?logo=codepen" height="25">](https://codepen.io/tientq64)
 [<img src="https://img.shields.io/badge/GreasyFork-891818.svg?logo=greasyfork" height="25">](https://greasyfork.org/en/users/1306283-tientq64?locale_override=1)\
 [<img src="https://img.shields.io/badge/Facebook-0866ff.svg?logo=facebook" height="25">](https://fb.com/tientq64)
-[<img src="https://img.shields.io/badge/YouTube-c4302b.svg?logo=youtube" height="25">](https://youtube.com/@mien-ai-music)
 [<img src="https://img.shields.io/badge/Wikipedia-ddd.svg?logo=wikipedia&logoColor=000" height="25">](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Tientq64)
-[<img src="https://img.shields.io/badge/Suno-2e2828.svg?logo=suno" height="25">](https://suno.com/@tientq64)
 [<img src="https://img.shields.io/badge/Tetr.io-cf40aa.svg?logo=tetr" height="25">](https://ch.tetr.io/u/tientq64)\
 [<img src="https://img.shields.io/badge/Gmail-ece9e9.svg?logo=gmail" height="25">](mailto:tientq64@gmail.com)
 
